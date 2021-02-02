@@ -3,6 +3,6 @@ description: >-
   Kube is a professional  and a responsive Hugo theme for developers and
   designers that offers a documentation section mixed with a landing page and a
   blog
-title: snarkOS theme for Hugo
+title: snarkOS
 draft: false
 ---
